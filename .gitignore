@@ -1,0 +1,13 @@
+**/__pycache__/
+runs/
+checkpoints/
+samples/
+results/
+pretrained/RAUNENet/
+pretrained/WaterNet/
+pretrained/UGAN/
+pretrained/FUnIE_GAN/
+*.tar.gz
+psnr_ssim_summary/
+*.ipynb
+paper_figures/*.eps
