@@ -246,7 +246,7 @@ python train_raunenet.py \
 ```
 
 ## 🤔Q&A
-If you have any question about this project, please contact `fansuregrin`(or `Wangzhen Peng`) through **wangzhenpeng@stu.ouc.edu.cn** or **pwz113436@gmail.com**! Btw, any pull request is welcome if you are interested in this project:)
+If you have any question about this project, please contact  through **ra3898@srmist.edu.in** or **rs5520637@gmail.com**! Btw, any pull request is welcome if you are interested in this project:)
 
 ## 📔References
 [3] Fabbri, C., Islam, M.J., Sattar, J.: Enhancing underwater imagery using generative adversarial networks. In: 2018 IEEE International Conference on Robotics and Automation (ICRA). pp. 7159–7165. IEEE (2018)
